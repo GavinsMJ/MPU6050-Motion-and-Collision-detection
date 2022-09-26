@@ -59,4 +59,11 @@ void loop(){
 
    
 
+   // to read more data for x,y,z axis uncomment the below code
+   //int16_t GyX,GyY,GyZ;
+   //GyX = Mpu6050::GyX;
+   //GyY = Mpu6050::GyY;
+   //GyZ = Mpu6050::GyZ;
+
 }
+
